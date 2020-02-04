@@ -1,0 +1,13 @@
+//this set up will run once
+function setup() {
+  createCanvas(600, 200);
+}
+
+//will continously run
+function draw() {
+  background("#e6e9d3");
+//backgroud of the game
+  rectMode(CORNER);
+  fill("#cacd7f");
+  rect(0, 175, 600, 27);
+}
