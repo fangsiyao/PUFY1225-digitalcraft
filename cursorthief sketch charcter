@@ -1,0 +1,18 @@
+function setup() {
+  createCanvas(600, 200);
+}
+
+function draw() {
+  background(220);
+ellipse(550,150, 50, 50);
+  //weight
+  strokeWeight(6);
+  translate(11, 0);
+  point(530,145);
+  point(548,145);  
+  // create a semi circle feet;
+  arc(548, 180, 14, 14, PI, TWO_PI);
+  line(16, 0, 4, 0);
+  arc(532, 180, 14, 14, PI, TWO_PI);
+  line(-16, 0, -4, 0);
+}
