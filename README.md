@@ -7,4 +7,4 @@ https://github.com/fangsiyao/PUFY1225-digitalcraft/commit/a257a567e89ffdc68c39ad
 # week 4
 # week 6
 # final work
-  yz.zip
+  yz.zip https://github.com/fangsiyao/PUFY1225-digitalcraft/commit/7d4b2c7a3ac6599aaec9ee61a79fbcc1a4be7b49
